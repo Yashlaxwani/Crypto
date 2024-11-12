@@ -1,6 +1,6 @@
 # Cryptoverse
 
-[Deployemnt link](https://projectcryptoverseapp.netlify.app//)
+[Deployemnt link](https://projectcryptoverseapp.netlify.app/)
 
 A React application provides the latest crypto prices,Taught by Javascript Mastery.
 
